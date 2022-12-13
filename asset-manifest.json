@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/moive/static/css/main.b4d2cb3c.css",
-    "main.js": "/moive/static/js/main.462d4cb5.js",
+    "main.js": "/moive/static/js/main.551faa1c.js",
     "static/js/787.ac34fb11.chunk.js": "/moive/static/js/787.ac34fb11.chunk.js",
     "static/media/fa-solid-900.ttf": "/moive/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
     "static/media/fa-brands-400.ttf": "/moive/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
@@ -13,11 +13,11 @@
     "static/media/fa-v4compatibility.woff2": "/moive/static/media/fa-v4compatibility.745989aab0d69cab7e70.woff2",
     "index.html": "/moive/index.html",
     "main.b4d2cb3c.css.map": "/moive/static/css/main.b4d2cb3c.css.map",
-    "main.462d4cb5.js.map": "/moive/static/js/main.462d4cb5.js.map",
+    "main.551faa1c.js.map": "/moive/static/js/main.551faa1c.js.map",
     "787.ac34fb11.chunk.js.map": "/moive/static/js/787.ac34fb11.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b4d2cb3c.css",
-    "static/js/main.462d4cb5.js"
+    "static/js/main.551faa1c.js"
   ]
 }
